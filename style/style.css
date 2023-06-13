@@ -192,7 +192,7 @@ html {
 .progresso-flex .barra-progresso-flex {
     position: absolute;
     height: 140%;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(230, 24, 182, 0.921);
     width: 65%;
     border-radius: 20px;
     animation: barra-flex 80s;
@@ -219,7 +219,7 @@ html {
 .progresso-adap .barra-progresso-adap {
     position: absolute;
     height: 140%;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(230, 24, 182, 0.921);
     width: 80%;
     border-radius: 20px;
     animation: barra-adap 80s;
@@ -246,7 +246,7 @@ html {
 .progresso-apren .barra-progresso-apren {
     position: absolute;
     height: 140%;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(230, 24, 182, 0.921);
     border-radius: 20px;
     width: 70%;
     animation: barra-apren 80s;
@@ -273,7 +273,7 @@ html {
 .progresso-html .barra-progresso-html {
     position: absolute;
     height: 140%;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(230, 24, 182, 0.921);
     border-radius: 20px;
     width: 30%;
     animation: barra-html 80s;
@@ -301,7 +301,7 @@ html {
     border-radius: 20px;
     position: absolute;
     height: 140%;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(230, 24, 182, 0.921);
     width: 5%;
     animation: barra-py 80s;
 }
@@ -327,7 +327,7 @@ html {
 .progresso-ing .barra-progresso-ing {
     position: absolute;
     height: 140%;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(230, 24, 182, 0.921);
     width: 60%;
     border-radius: 20px;
     animation: barra-ing 80s;
@@ -354,7 +354,7 @@ html {
 .progresso-esp .barra-progresso-esp {
     position: absolute;
     height: 140%;
-    background-color: rgb(0, 0, 0);
+    background-color: rgba(230, 24, 182, 0.921);
     width: 30%;
     border-radius: 20px;
     animation: barra-esp 80s;
@@ -383,8 +383,8 @@ html {
 .voltar a:link, .voltar a:visited {
     border-radius: 40%;
     background-color: white;
-    color: rgb(0, 0, 0);
-    border: 2px solid rgb(0, 0, 0);
+    color: rgb(230, 24, 182, 0.921);
+    border: 2px solid rgb(230, 24, 182, 0.921);
     padding: 7px 20px;
     text-decoration: none;
     display: inline-block;
